@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ravil 🚀</h1>
+<h1 align="center">🖥️ Welcome to Ravil Museibov's Dev Hub 🚀</h1>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&height=60&lines=Building+Mobile+Apps+🚀;Crafting+Backend+APIs+🔥;Freelance+Developer+📱" alt="Typing SVG" />
