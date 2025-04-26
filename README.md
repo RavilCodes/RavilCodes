@@ -6,10 +6,11 @@
 
 ---
 
-## 🚀 About Me
-- Freelance Android & Backend Developer  
-- Passionate about clean code and scalable backend systems
-- Kotlin, Java, Ktor enthusiast
+# 🚀 About Me:
+- 🔥 Passionate **Android** and **Backend Developer** based in **Baku** and **Saint Petersburg**.
+- 📱 Specialized in building modern **Mobile Apps** and powerful **Web APIs** using **Kotlin**, **Java**, and **Ktor**.
+- 🛠️ Skilled in **PostgreSQL**, **Docker**, **Linux**, and **Git**.
+- 🤝 Open to freelance opportunities and exciting collaborations!
 
 ---
 
@@ -21,8 +22,16 @@
 
 ---
 
-## 📫 Contact Me
-- Email: **ravilmuseyibov66@gmail.com**
-- Telegram: [@YourTelegramUsername](https://t.me/YourTelegramUsername)  *(если хочешь, впишем сюда)*
+# ✨ Currently Working On:
+- 🤖 Mobile application for an AI Assistant
+- 🛠️ Backend APIs using **Ktor** and **PostgreSQL**
+- 🚀 Personal projects and freelance tasks
 
 ---
+
+## 📫 Contact Me
+- Email: **ravilmuseyibov66@gmail.com**
+---
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:007396&height=120&section=footer"/>
+</p>
