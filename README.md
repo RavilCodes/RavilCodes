@@ -23,6 +23,5 @@
 
 ## 📫 Contact Me
 - Email: **ravilmuseyibov66@gmail.com**
-- Telegram: [@RavilDev](https://t.me/RavilDev)
 
 ---
