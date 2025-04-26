@@ -1,37 +1,45 @@
-<h1 align="center">Hi there, I'm Ravil 👋</h1>
+<h1 align="center">
+  Hi there, I'm Ravil 👋
+</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Freelance+Android+%26+Backend+Developer;Kotlin,+Ktor,+PostgreSQL,+Docker,+Linux;Building+Mobile+Apps+and+APIs;Let's+Create+Awesome+Projects!&center=true&width=500&height=45">
-</p>
-
----
-
-## 🚀 About Me:
-- 🔥 I am a passionate **Android** and **Backend Developer** based in Baku & Saint Petersburg.
-- 💻 I build **Mobile Applications** and **Web APIs** using **Kotlin**, **Java**, and **Ktor**.
-- 📚 Constantly learning new technologies and improving my craft.
-- 🎯 Goals: Develop high-quality apps, work on exciting freelance projects, and grow as a professional developer.
-- 🤝 Open for collaboration and freelance work!
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Android+Developer;Backend+Developer;Freelance+Engineer;Kotlin+%7C+Java+%7C+Ktor;Passionate+about+Mobile+%26+Web+Tech" alt="Typing SVG" />
+</h3>
 
 ---
 
-## 🛠️ Tech Stack:
+# 🚀 About Me:
+- 🔥 Passionate **Android** and **Backend Developer** based in **Baku** and **Saint Petersburg**.
+- 📱 Specialized in building modern **Mobile Apps** and powerful **Web APIs** using **Kotlin**, **Java**, and **Ktor**.
+- 🛠️ Skilled in **PostgreSQL**, **Docker**, **Linux**, and **Git**.
+- 🤝 Open to freelance opportunities and exciting collaborations!
+
+---
+
+# 🛠️ Tech Stack:
 <p align="left">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ktor-0095D5?style=for-the-badge&logo=ktor&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <a href="https://kotlinlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin"/></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/></a>
+  <a href="https://ktor.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/34736161?s=200&v=4" width="40" height="40" alt="Ktor"/></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/></a>
 </p>
 
 ---
 
-## 📫 Contact Me:
-- Email: ravilmuseyibov66@gmail.com
+# ✨ Currently Working On:
+- 🤖 Mobile application for an AI Assistant
+- 🛠️ Backend APIs using **Ktor** and **PostgreSQL**
+- 🚀 Personal projects and freelance tasks
+
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:007396&height=120&section=footer"/>
-</p>
+# 📫 Contact Me:
+- 📧 Email: **ravilmuseyibov66@gmail.com**
+
+---
+
+# ⚡ Fun Fact:
+> "First, solve the problem. Then, write the code." 💻
